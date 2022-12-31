@@ -9,7 +9,7 @@ Author: Rayhan0x01
 ___
 
 ### **Vulnerable code:** ###
-![](1.png)
+![https://github.com/L4P1Nz/HackTheBox/blob/main/Challenges/Web/Diogenes%20Rage/Media/1.png](1.png)
 ### **Exploit:** ###
 ```python
 import requests
