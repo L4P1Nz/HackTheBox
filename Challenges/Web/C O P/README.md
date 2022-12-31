@@ -26,6 +26,6 @@ if __name__ == '__main__':
 ```
 Get flag:
 
-```http
+```
 http://<HTB_IP>/view/' union select all '<pickle payload>'--
 ```
